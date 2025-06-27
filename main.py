@@ -1,3 +1,14 @@
+import sys
+
+required_major = 3
+required_minor = 10
+
+if sys.version_info.major != required_major or sys.version_info.minor != required_minor:
+    print(f"❌ Bu proje sadece Python {required_major}.{required_minor} ile çalışır.")
+    print("💡 Lütfen Python 3.10 sürümünü indirip kullanın: https://www.python.org/downloads/release/python-31011/")
+    sys.exit(1)
+
+
 import os
 import sys
 import subprocess
