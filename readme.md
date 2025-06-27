@@ -51,7 +51,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 4. Branch'inizi push edin ( git push origin feature/AmazingFeature )
 5. Pull Request oluşturun
 ## 📞 İletişim
-Proje Sahibi - @github_kullaniciadiniz
 
 Proje Linki: https://github.com/kullaniciadi/vokalNOvokal
 
