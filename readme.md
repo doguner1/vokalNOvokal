@@ -52,6 +52,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 5. Pull Request oluşturun
 ## 📞 İletişim
 
-Proje Linki: https://github.com/kullaniciadi/vokalNOvokal
+Proje Linki: https://github.com/doguner1/vokalNOvokal
 
 ⭐️ Bu projeyi beğendiyseniz yıldızlamayı unutmayın!
